@@ -9,7 +9,7 @@ public class HomePage extends CentralClass{
 	
 	public HomePage() {
 		PageFactory.initElements(driver, CentralClass.class);
-		System.out.println("Inside);
+		System.out.println("Inside");
 	}
 
 }
